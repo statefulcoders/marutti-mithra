@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.lock
+
+# iOS
+Pods/
+Podfile.lock
+
+# Android
+.gradle/
+local.properties
+*.jks
+*.keystore
+key.properties
+
+# Node.js
+node_modules/
+
+# Firebase
+.firebase/
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/

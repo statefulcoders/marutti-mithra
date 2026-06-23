@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#FFFFFF"  # Light mode background (white)
+  image: assets/images/logos/native_splash.png
+
+  android_12:
+    image: assets/images/logos/native_splash.png
+    color: "#FFFFFF"  # Light mode background (white)
+    icon_background_color: "#FFFFFF"  # Light mode icon background (same as background)
+
+    android_gravity: center
+    ios_content_mode: scaleAspectFit
+    web_image_mode: center
+
+  android_gravity: center
+  ios_content_mode: scaleAspectFit
+  web_image_mode: center

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349350899765",
+    "project_id": "marutti-mitra-groups",
+    "storage_bucket": "marutti-mitra-groups.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349350899765:android:2bbb84b93e23eafe69817c",
+        "android_client_info": {
+          "package_name": "com.marutti.mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADuzcJqKHrIRrtRpjX3Tr-1rw6qJ4j-mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
